@@ -1,0 +1,371 @@
+[
+    {
+      "id": 1,
+      "goal": "sequences",
+      "question": [
+        {
+          "title": "Two Sum",
+          "difficulty": "Easy",
+          "num": 1,
+          "topic": ["Array", "Hash Table"],
+          "link": "https://leetcode.com/problems/two-sum/"
+        },
+        {
+          "title": "Contains Duplicate",
+          "difficulty": "Easy",
+          "num": 217,
+          "topic": ["Array", "Hash Table"],
+          "link": "https://leetcode.com/problems/contains-duplicate/"
+        },
+        {
+          "title": "Best Time to Buy and Sell Stock",
+          "difficulty": "Easy",
+          "num": 121,
+          "topic": ["Array", "Dynamic Programming"],
+          "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+        },
+        {
+          "title": "Valid Anagram",
+          "difficulty": "Easy",
+          "num": 242,
+          "topic": ["Hash Table", "Sort"],
+          "link": "https://leetcode.com/problems/valid-anagram/"
+        },
+        {
+          "title": "Valid Parentheses",
+          "difficulty": "Easy",
+          "num": 20,
+          "topic": ["String", "Stack"],
+          "link": "https://leetcode.com/problems/valid-parentheses/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "goal": "sequences",
+      "question": [
+        {
+          "title": "Maximum Subarray",
+          "difficulty": "Easy",
+          "num": 53,
+          "topic": ["Array", "Dynamic Programming"],
+          "link": "https://leetcode.com/problems/maximum-subarray/"
+        },
+        {
+          "title": "Product of Array Except Self",
+          "difficulty": "Medium",
+          "num": 238,
+          "topic": ["Array"],
+          "link": "https://leetcode.com/problems/product-of-array-except-self/"
+        },
+        {
+          "title": "3Sum",
+          "difficulty": "Medium",
+          "num": 15,
+          "topic": ["Array", "Two Pointers"],
+          "link": "https://leetcode.com/problems/3sum/"
+        },
+        {
+          "title": "Merge Intervals",
+          "difficulty": "Medium",
+          "num": 56,
+          "topic": ["Array", "Sort"],
+          "link": "https://leetcode.com/problems/merge-intervals/"
+        },
+        {
+          "title": "Group Anagrams",
+          "difficulty": "Medium",
+          "num": 49,
+          "topic": ["Hash Table", "String"],
+          "link": "https://leetcode.com/problems/group-anagrams/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "goal": "Data structures",
+      "question": [
+        {
+          "title": "Reverse a Linked List",
+          "difficulty": "Easy",
+          "num": 206,
+          "topic": ["Linked List"],
+          "link": "https://leetcode.com/problems/reverse-linked-list/"
+        },
+        {
+          "title": "Detect Cycle in a Linked List",
+          "difficulty": "Easy",
+          "num": 141,
+          "topic": ["Linked List", "Two Pointers"],
+          "link": "https://leetcode.com/problems/linked-list-cycle/"
+        },
+        {
+          "title": "Container With Most Water",
+          "difficulty": "Medium",
+          "num": 11,
+          "topic": ["Array", "Two Pointers"],
+          "link": "https://leetcode.com/problems/container-with-most-water/"
+        },
+        {
+          "title": "Find Minimum in Rotated Sorted Array",
+          "difficulty": "Medium",
+          "num": 153,
+          "topic": ["Array", "Binary Search"],
+          "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+        },
+        {
+          "title": "Longest Repeating Character Replacement",
+          "difficulty": "Medium",
+          "num": 424,
+          "topic": ["Two Pointers", "Sliding Window"],
+          "link": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "goal": "Data structures",
+      "question": [
+        {
+          "title": "Longest Substring Without Repeating Characters",
+          "difficulty": "Medium",
+          "num": 3,
+          "topic": ["String", "Sliding Window"],
+          "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+        },
+        {
+          "title": "Number of Islands",
+          "difficulty": "Medium",
+          "num": 200,
+          "topic": ["Depth-First Search", "Breadth-First Search", "Union Find"],
+          "link": "https://leetcode.com/problems/number-of-islands/"
+        },
+        {
+          "title": "Remove Nth Node From End Of List",
+          "difficulty": "Medium",
+          "num": 19,
+          "topic": ["Linked List", "Two Pointers"],
+          "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+        },
+        {
+          "title": "Palindromic Substrings",
+          "difficulty": "Medium",
+          "num": 647,
+          "topic": ["String", "Dynamic Programming"],
+          "link": "https://leetcode.com/problems/palindromic-substrings/"
+        },
+        {
+          "title": "Pacific Atlantic Water Flow",
+          "difficulty": "Medium",
+          "num": 417,
+          "topic": ["Depth-First Search", "Breadth-First Search"],
+          "link": "https://leetcode.com/problems/pacific-atlantic-water-flow/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "goal": "non-linear data structures",
+      "question": [
+        {
+          "title": "Invert/Flip Binary Tree",
+          "difficulty": "Easy",
+          "num": 226,
+          "topic": ["Tree"],
+          "link": "https://leetcode.com/problems/invert-binary-tree/"
+        },
+        {
+          "title": "Validate Binary Search Tree",
+          "difficulty": "Medium",
+          "num": 98,
+          "topic": ["Tree", "Depth-First Search", "Recursion"],
+          "link": "https://leetcode.com/problems/validate-binary-search-tree/"
+        },
+        {
+          "title": "Non-overlapping Intervals",
+          "difficulty": "Medium",
+          "num": 435,
+          "topic": ["Greedy", "Sort"],
+          "link": "https://leetcode.com/problems/non-overlapping-intervals/"
+        },
+        {
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+         "difficulty": "Medium",
+          "num": 105,
+          "topic": ["Tree", "Depth-First Search", "Array"],
+          "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "goal": "non-linear data structures",
+      "question": [
+        {
+          "title": "Top K Frequent Elements",
+          "difficulty": "Medium",
+          "num": 347,
+          "topic": ["Hash Table", "Heap"],
+          "link": "https://leetcode.com/problems/top-k-frequent-elements/"
+        },
+        {
+          "title": "Clone Graph",
+          "difficulty": "Medium",
+          "num": 133,
+          "topic": ["Depth-First Search", "Breadth-First Search", "Graph"],
+          "link": "https://leetcode.com/problems/clone-graph/"
+        },
+        {
+          "title": "Course Schedule",
+          "difficulty": "Medium",
+          "num": 207,
+          "topic": ["Depth-First Search", "Breadth-First Search", "Graph"],
+          "link": "https://leetcode.com/problems/course-schedule/"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "goal": "more data structures",
+      "question": [
+        {
+          "title": "Subtree of Another Tree",
+          "difficulty": "Easy",
+          "num": 572,
+          "topic": ["Tree"],
+          "link": "https://leetcode.com/problems/subtree-of-another-tree/"
+        },
+        {
+          "title": "Lowest Common Ancestor of BST",
+          "difficulty": "Easy",
+          "num": 235,
+          "topic": ["Tree", "Depth-First Search"],
+          "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+        },
+        {
+          "title": "Implement Trie (Prefix Tree)",
+          "difficulty": "Medium",
+          "num": 208,
+          "topic": ["Design", "Trie"],
+          "link": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+        },
+        {
+          "title": "Add and Search Word",
+          "difficulty": "Medium",
+          "num": 211,
+          "topic": ["Backtracking", "Design", "Trie"],
+          "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure/"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "goal": "more data structures",
+      "question": [
+        {
+          "title": "Kth Smallest Element in a BST",
+          "difficulty": "Medium",
+          "num": 230,
+          "topic": ["Tree", "Binary Search"],
+          "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+        },
+        {
+          "title": "Insert Interval",
+          "difficulty": "Medium",
+          "num": 57,
+          "topic": ["Array", "Sort"],
+          "link": "https://leetcode.com/problems/insert-interval/"
+        },
+        {
+          "title": "Longest Consecutive Sequence",
+          "difficulty": "Medium",
+          "num": 128,
+          "topic": ["Array", "Union Find"],
+          "link": "https://leetcode.com/problems/longest-consecutive-sequence/"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "goal": "dynamic programming",
+      "question": [
+        {
+          "title": "Climbing Stairs",
+          "difficulty": "Easy",
+          "num": 70,
+          "topic": ["Dynamic Programming"],
+          "link": "https://leetcode.com/problems/climbing-stairs/"
+        },
+        {
+          "title": "Coin Change",
+          "difficulty": "Medium",
+          "num": 322,
+          "topic": ["Dynamic Programming"],
+          "link": "https://leetcode.com/problems/coin-change/"
+        },
+        {
+          "title": "Longest Increasing Subsequence",
+          "difficulty": "Medium",
+          "num": 300,
+          "topic": ["Dynamic Programming", "Binary Search"],
+          "link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+        },
+        {
+          "title": "Combination Sum",
+          "difficulty": "Medium",
+          "num": 39,
+          "topic": ["Array", "Backtracking"],
+          "link": "https://leetcode.com/problems/combination-sum/"
+        },
+        {
+          "title": "House Robber",
+          "difficulty": "Medium",
+          "num": 198,
+          "topic": ["Dynamic Programming"],
+          "link": "https://leetcode.com/problems/house-robber/"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "goal": "dynamic programming",
+      "question": [
+        {
+          "title": "House Robber II",
+          "difficulty": "Medium",
+          "num": 213,
+          "topic": ["Dynamic Programming"],
+          "link": "https://leetcode.com/problems/house-robber-ii/"
+        },
+        {
+          "title": "Decode Ways",
+          "difficulty": "Medium",
+          "num": 91,
+          "topic": ["Dynamic Programming", "String"],
+          "link": "https://leetcode.com/problems/decode-ways/"
+        },
+        {
+          "title": "Unique Paths",
+          "difficulty": "Medium",
+          "num": 62,
+          "topic": ["Dynamic Programming"],
+          "link": "https://leetcode.com/problems/unique-paths/"
+        },
+        {
+          "title": "Jump Game",
+          "difficulty": "Medium",
+          "num": 55,
+          "topic": ["Array", "Greedy"],
+          "link": "https://leetcode.com/problems/jump-game/"
+        },
+        {
+          "title": "Word Break",
+          "difficulty": "Medium",
+          "num": 139,
+          "topic": ["Dynamic Programming"],
+          "link": "https://leetcode.com/problems/word-break/"
+        }
+      ]
+    }
+  ]
+  
